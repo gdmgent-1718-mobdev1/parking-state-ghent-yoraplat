@@ -1,0 +1,14 @@
+.parking_container{
+    width: 98%;
+    margin: 0 auto;
+    display: block;
+}
+
+.parking{
+    width: 33%;
+    display: inline-block;
+    margin: 15px 0px;
+    padding: 1%;
+    background-color: green;
+    height: 250px;
+}
